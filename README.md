@@ -1,6 +1,6 @@
-### Hi there 👋
+
 <h1 align="center"> Hello there ✌️it's Ahmed Jamil<h1>
-<img align="right" style= "width:50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="center" style= "width:50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 # 💫 About Me:
 ✔️ I’m currently working on [Material Access](https://github.com/Ajoz101/MaterialAccess) app<br>🤝 I’m looking to collaborate on API Testing<br>🌱 I’m currently learning Laravel framework<br>💬 Ask me about Flutter, php, C#, REST API, Java, Firebase<br>⚡ Fun fact -> I create code into ideas
@@ -20,13 +20,20 @@
 
 - 🔭 I’m currently working on [Material Access](https://github.com/Ajoz101/MaterialAccess) app
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤝 I’m looking to collaborate on API Testing
+- 🌱 I’m currently learning Laravel framework
+- 💬 Ask me about Flutter, php, C#, REST API, Java, Firebase
+- 📫 How to reach me: email -> ajozalhakimey101@gmail.com
+- ⚡ Fun fact -> I create code into ideas
 
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+  
+---
+[![](https://visitcount.itsvg.in/api?id=ajoz101&icon=8&color=9)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ajozrammer) 
+
