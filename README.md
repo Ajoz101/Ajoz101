@@ -18,9 +18,8 @@
 
 
 - 🔭 I’m currently working on [Material Access](https://github.com/Ajoz101/MaterialAccess) app
-- 🌱 I’m currently learning ...
-- 🤝 I’m looking to collaborate on API Testing
 - 🌱 I’m currently learning Laravel framework
+- 🤝 I’m looking to collaborate on API Testing
 - 💬 Ask me about Flutter, php, C#, REST API, Java, Firebase
 - 📫 How to reach me: email -> ajozalhakimey101@gmail.com
 - ⚡ Fun fact -> I create code into ideas
