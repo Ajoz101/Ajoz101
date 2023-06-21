@@ -21,7 +21,7 @@
 - 🤝 I’m looking to collaborate on API Testing
 - 💬 Ask me about Flutter, php, C#, REST API, Java, SQL
 - 📫 How to reach me: email -> ajozalhakimey101@gmail.com
-- ⚡ Fun fact -> I create code into ideas
+- ⚡ Fun fact -> Code won't fix itself
 
   
 ### ✍️ Random Dev Quote
