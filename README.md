@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajoz101&exclude_repo=github-readme-stats,ajoz101.github.io)
 
 <h1 align="center"> Hello there ✌️it's Ahmed Jamil<h1>
 <img align="center" style= "width:50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
