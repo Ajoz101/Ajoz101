@@ -1,4 +1,3 @@
-[![Ahmed Hakimi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ajoz101&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ajoz101)
 <h1 align="center"> Hello there ✌️it's Ahmed Jamil<h1>
 <img align="center" style= "width:50%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
@@ -23,7 +22,8 @@
 - 📫 How to reach me: email -> ajozalhakimey101@gmail.com
 - ⚡ Fun fact -> Code won't fix itself
 
-  
+  [![Ahmed Hakimi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ajoz101&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ajoz101)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
