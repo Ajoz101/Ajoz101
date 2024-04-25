@@ -1,5 +1,4 @@
 <h1 align="center"> Hello there ✌️it's Ahmed Jamil<h1>
-<img align="center" style= "width:100%" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 # 💫 About Me:
 ✔️ I’m currently working on [Material Access](https://github.com/Ajoz101/MaterialAccess) app<br>🤝 I’m looking to collaborate on API Testing<br>🌱 I’m currently learning Laravel framework<br>💬 Ask me about Flutter, php, C#, REST API, Java, Firebase<br>⚡ Fun fact -> I create code into ideas
