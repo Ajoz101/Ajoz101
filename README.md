@@ -28,10 +28,12 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
   
   
 ---
 [![](https://visitcount.itsvg.in/api?id=ajoz101&icon=8&color=9)](https://visitcount.itsvg.in)
+    <img src="https://raw.githubusercontent.com/ajoz101/ajoz101/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ajozrammer) 
