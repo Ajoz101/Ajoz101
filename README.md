@@ -18,8 +18,10 @@
 <br/><br/><br/>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajoz101&theme=github_dark" alt="Ahmed Hakimi GitHub Stats"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajoz101&theme=github_dark" alt="Ahmed Hakimi GitHub Stats"/>
 </div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
