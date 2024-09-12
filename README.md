@@ -1,11 +1,13 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=4B0082&center=true&vCenter=true&width=435&lines=Hello..+I'm+Ahmed+Hakimi;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=4B0082&center=true&vCenter=true&width=450&lines=Hello..+I'm+Ahmed+Hakimi;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 
 # 💫 About Me:
-✔️ I’m currently working on [Material Access](https://github.com/Ajoz101/MaterialAccess) app<br>🤝 I’m looking to collaborate on API Testing<br>🌱 I’m currently learning Laravel framework<br>💬 Ask me about Flutter, php, C#, REST API, Java, Firebase<br>⚡ Fun fact -> I create code into ideas
+🤝 I’m looking to collaborate on API Testing<br>💬 Ask me about Flutter, php, REST API, Java, Firebase<br>⚡ Fun fact -> I don't sleep I code
+- 📫 How to reach me: email -> ajozalhakimey101@gmail.com
+
 
 
 ## 🌐 Socials:
@@ -14,15 +16,6 @@
 # 💻 My Stack:
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
 <br/><br/><br/>
-
-
-
-
-
-- 🤝 I’m looking to collaborate on API Testing
-- 💬 Ask me about Flutter, php, REST API, SQL
-- 📫 How to reach me: email -> ajozalhakimey101@gmail.com
-- ⚡ Fun fact -> Code won't fix itself
 
   [![Ahmed Hakimi's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ajoz101&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ajoz101)
 
