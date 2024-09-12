@@ -1,4 +1,8 @@
-<h1 align="center"> Hello there ✌️it's Ahmed Jamil<h1>
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+ Ahmed Hakimi;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
 # 💫 About Me:
 ✔️ I’m currently working on [Material Access](https://github.com/Ajoz101/MaterialAccess) app<br>🤝 I’m looking to collaborate on API Testing<br>🌱 I’m currently learning Laravel framework<br>💬 Ask me about Flutter, php, C#, REST API, Java, Firebase<br>⚡ Fun fact -> I create code into ideas
