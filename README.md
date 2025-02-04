@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-💬 Ask me about Flutter, php, REST API, Java, Firebase<br>⚡ Fun fact -> I don't sleep I code
+💬 Ask me about Flutter, REST API, Firebase<br>⚡ Fun fact -> I don't sleep I code
 - 📫 How to reach me: email -> ajozalhakimey101@gmail.com
 
 
