@@ -31,8 +31,3 @@
 
   
 
-## My contributions 
-<img src="https://raw.githubusercontent.com/Ajoz101/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-
-
-
